@@ -1,8 +1,10 @@
 # CharactrerCounter
 Hello Everyone 
-This is the Simple project Made using<br>
+This is the Real time <h1>Character Counter </h1> 
+Made using<br>
 <li>HTML<br>
-CSS and<br>
-javascript</li>
-
-Feel free to contibute to it if you like to make some changes.
+<li>CSS and<br>
+<li>javascript
+If you like the project 
+Feel free to contibute to it.
+and follow me on github.
