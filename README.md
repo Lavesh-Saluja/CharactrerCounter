@@ -1,6 +1,6 @@
 # CharactrerCounter
 Hello Everyone 
-This is the Simple project Made using 
+This is the Simple project Made using<br>
 HTML
 CSS and
 javascript
