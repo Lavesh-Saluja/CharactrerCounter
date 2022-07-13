@@ -1,6 +1,6 @@
 # CharactrerCounter
 Hello Everyone 
-This is the Real time <h1>Character Counter </h1> 
+This is the Real time <h3>Character Counter </h3> 
 Made using<br>
 <li>HTML<br>
 <li>CSS and<br>
